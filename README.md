@@ -77,19 +77,15 @@ Comeinn is a small-scale hostel system serving long-term and short-term tenants,
 
 ---
 
-## 📊 5. Results and Conclusion
-
-The **Comeinn Home Analyst** project achieved significant outcomes:
-
-- ✅ **Management Efficiency**: Consolidated data across systems and reduced manual errors.  
-- 📈 **Decision Support**: Built dashboards and SQL queries to generate actionable insights.  
-- 🧠 **Behavior Prediction**: Applied machine learning to identify at-risk customers proactively.  
-- 💰 **Revenue Growth**: Increased contract value and occupancy; KTX contributed 66.2% of revenue.  
-- 🤖 **Automation**: Deployed a Flask API to automate personalized recommendations.
-
-> Overall, the project resolved manual management issues, delivered a unified data system, and leveraged modern technologies (SQL, Python, Power BI, Machine Learning, Flask API) to optimize operations.  
-> Proposed strategies reduced churn, boosted revenue, and improved customer experience, especially for 18–24-year-old students.  
-> The solution is **scalable**, with potential to integrate customer feedback and expand long-term forecasting capabilities.
+## 📊 5. Conclusion
+After completing the project, I significantly expanded my skills and understanding in several key areas:
+• **Used Python** for data cleaning, standardizing information from multiple sources, handling missing values, and preparing training datasets for prediction models.  
+• **Wrote SQL queries** to filter, aggregate, and analyze data, such as calculating contract renewal rates, monthly revenue statistics, and identifying high-risk customer segments.  
+• **Enhanced data visualization skills** with Power BI, designed interactive reports, and leveraged **DAX** to create measures and compare business metrics across time periods.  
+• **Built statistical and predictive models**, strengthening my knowledge of machine learning concepts.  
+• **Gained hands-on experience with Flask API**, learning how to package predictive models into automated recommendation services.  
+• **Developed a deep understanding** of the student dormitory and room rental domain, including key factors affecting occupancy rates, peak revenue periods, and how to diagnose and address revenue declines.  
+• Through the process of self-directed research and end-to-end implementation, I also learned how to **integrate multiple tools into a cohesive workflow** — from data preparation and analysis to forecasting and building reporting dashboards — which improved my overall **data mindset** and ability to quickly learn new technologies.
 
 ---
 
