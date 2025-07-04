@@ -81,6 +81,7 @@ Comeinn is a small-scale hostel system serving long-term and short-term tenants,
 
 ## 📊 5. Conclusion
 After completing the project, I significantly expanded my skills and understanding in several key areas:
+
 • **Used Python** for data cleaning, standardizing information from multiple sources, handling missing values, and preparing training datasets for prediction models.  
 • **Wrote SQL queries** to filter, aggregate, and analyze data, such as calculating contract renewal rates, monthly revenue statistics, and identifying high-risk customer segments.  
 • **Enhanced data visualization skills** with Power BI, designed interactive reports, and leveraged **DAX** to create measures and compare business metrics across time periods.  
