@@ -48,6 +48,7 @@ Comeinn is a small-scale hostel system serving long-term and short-term tenants,
 - **Results**: Queries for revenue analysis, loyal customer identification, vacancy rates, and anomaly detection.
 
 ### 🔹 Step 3: Power BI Dashboard
+[Click here to view demo](https://app.powerbi.com/view?r=eyJrIjoiMzk3YTMxNzQtNzRjMS00Y2M5LTk0Y2UtOTM1ZmNiOTg2ZWNhIiwidCI6ImQ2ZDEzZTBlLTdjYTAtNDNkNC05OTY1LTQyZDM4ZWU1M2RkYSIsImMiOjEwfQ%3D%3D)
 - **Objective**: Visualize revenue, customer, and operational performance.  
 - **Results**: 4B VND revenue, 78% occupancy rate, dormitories (KTX) contribute 66.2% of revenue, identified high/low demand seasons and high-churn branch.
 
@@ -62,6 +63,7 @@ Comeinn is a small-scale hostel system serving long-term and short-term tenants,
   - **A/B Testing**: 5–10% price increase does not affect renewal rates.
 
 ### 🔹 Step 5: Flask API Deployment
+ [Click to view live demo](https://web-production-3c078.up.railway.app/)
 - **Objective**: Predict churn and recommend suitable rooms.  
 - **Results**: API with 70–80% accuracy, automates churn prediction and room allocation.
 
