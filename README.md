@@ -38,14 +38,14 @@ Comeinn is a small-scale hostel system serving long-term and short-term tenants,
 ## ⚙️ 3. Project Implementation Steps
 
 ### 🔹 Step 1: Data Cleaning and Standardization (Python)
-- **Objective**: Standardize data from `combined_customers.csv` (238 records).  
+- **Objective**: Standardize data from `combined_customers.csv`.
 - **Tools**: Python (Pandas, NumPy, Seaborn, Matplotlib), Jupyter Notebook.  
 - **Results**: Cleaned data, age analysis (56% aged 18–24), app registration status (58% unregistered), age group distribution visualized via bar charts.
 
 ### 🔹 Step 2: SQL Queries for Data Analysis (T-SQL)
 - **Objective**: Extract detailed insights for management decision-making.  
 - **Tools**: SQL (JOIN, CTE, Window Functions).  
-- **Results**: 50+ queries for revenue analysis, loyal customer identification, vacancy rates, and anomaly detection.
+- **Results**: Queries for revenue analysis, loyal customer identification, vacancy rates, and anomaly detection.
 
 ### 🔹 Step 3: Power BI Dashboard
 - **Objective**: Visualize revenue, customer, and operational performance.  
